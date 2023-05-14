@@ -1,4 +1,7 @@
 # No Key - Smart Door Unlock System using Fingerprint from Bluetooth Device
+![image](https://github.com/Adityakanoi2001/No-Key/assets/77881724/bcb18303-02ca-4d1d-9f56-fce52b4ba60d)
+
+🖇 IEEE Conference Publication Link : https://ieeexplore.ieee.org/document/10112928
 
 This project proposes a smart door lock automation system that uses an Android smartphone with Bluetooth as the primary hardware. The system is designed for both businesses, such as banks, and homeowners. It offers an efficient and user-friendly interface and supports open-source platforms.
 
